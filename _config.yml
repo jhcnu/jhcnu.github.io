@@ -117,11 +117,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "이 새낀 그냥 코딩을 못함"
   location         : "Chungnam National University"
-  email            : ""
+  email            : "vkfqhd0720@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "vkfqhd0720@gmail.com"
+      # url: "vkfqhd0720@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -137,7 +137,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: https://github.com/jhcnu
+      # url: https://github.com/jhcnu
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
