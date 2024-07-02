@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
  
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "jhcnu"
+title                    : "jhcnu's blog"
 title_separator          : "|"
 subtitle                 : "waves are spreading" # site tagline that appears below site title in masthead
-name                     : "jh's blog"
+name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://jhcnu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : #"GGMU"
+  name             : "jhcnu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "이 새낀 그냥 코딩을 못함"
-  location         : "https://plus.cnu.ac.kr/html/kr/"
+  location         : "Chungnam National University"
   email            : "vkfqhd0720@gmail.com"
   links:
     - label: "Email"
