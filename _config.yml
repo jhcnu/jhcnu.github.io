@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "jhcnu"
 title_separator          : "|"
 subtitle                 : "waves are spreading" # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "jh's blog"
 description              : "An amazing website."
 url                      : "https://jhcnu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "GGMU"
+  name             : #"GGMU"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "이 새낀 그냥 코딩을 못함"
-  location         : "Chungnam National University"
+  location         : "https://plus.cnu.ac.kr/html/kr/"
   email            : "vkfqhd0720@gmail.com"
   links:
     - label: "Email"
